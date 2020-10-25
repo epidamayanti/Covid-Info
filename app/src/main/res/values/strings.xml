@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Covid Info</string>
+
+    <string name="dummy_small_text">
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </string>
+    <string name="please_wait">Please Wait ..</string>
+
+</resources>
